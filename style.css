@@ -1,3 +1,31 @@
+@font-face {
+  font-family: "Kanit";
+  font-style: normal;
+  font-format: truetype;
+  font-weight: 700;
+  src: url("public/fonts/kanit-bold.ttf") ;
+}
+@font-face {
+  font-family: "Kanit Regular";
+  font-style: normal;
+  font-format: truetype;
+  font-weight: 400;
+  src: url("public/fonts/kanit-regular.ttf") ;
+}
+@font-face {
+  font-family: "Kanit Medium";
+  font-style: normal;
+  font-format: truetype;
+  font-weight: 500;
+  src: url("public/fonts/kanit-medium.ttf") ;
+}
+@font-face {
+  font-family: "Kanit Black";
+  font-style: normal;
+  font-format: truetype;
+  font-weight: 900;
+  src: url("public/fonts/kanit-black.ttf") ;
+}
 :root {
   --dl-color-gray-500: #595959;
   --dl-color-gray-700: #999999;
