@@ -205,7 +205,7 @@
 }
 .home-testimonial {
   width: 372px;
-  height: 717px;
+  height: auto;
   display: flex;
   padding: var(--dl-space-space-twounits);
   max-width: var(--dl-size-size-maxwidth);
@@ -260,7 +260,7 @@
 }
 .home-testimonial2 {
   width: 372px;
-  height: 717px;
+  height: auto;
   display: flex;
   padding: var(--dl-space-space-twounits);
   max-width: var(--dl-size-size-maxwidth);
@@ -317,7 +317,7 @@
 }
 .home-testimonial4 {
   width: 372px;
-  height: 717px;
+  height: auto;
   display: flex;
   padding: var(--dl-space-space-twounits);
   max-width: var(--dl-size-size-maxwidth);
@@ -374,7 +374,7 @@
 }
 .home-testimonial6 {
   width: 372px;
-  height: 717px;
+  height: auto;
   display: flex;
   padding: var(--dl-space-space-twounits);
   max-width: var(--dl-size-size-maxwidth);
